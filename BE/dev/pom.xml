@@ -12,6 +12,7 @@
 	<artifactId>dev</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dev</name>
+	<packaging>war</packaging>
 	<description>Backend Implementation</description>
 
 	<properties>
